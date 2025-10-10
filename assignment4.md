@@ -8,7 +8,7 @@
 
 # Chart two 
 ## [Decadal average: Annual number of deaths from distasters](https://ourworldindata.org/natural-disasters#explore-data-on-natural-disasters)
-## [Edited data](https://www.canva.com/design/DAG1QVC85oc/3A9jmlsCdF58K1--lVMnqw/edit) 
+## [Edited data](https://github.com/svoneisengrein-ctrl/datajournalism-fall2025/blob/main/New%20chart%20.pdf) 
 #### - In the new chart I kept the data to just the global average and each continents average to make it less overwhelming 
 #### - I also added clor to make quick visual comparison easier 
 #### - Instead of doing it by every decade I did it by every two decades to also make the data loook less cluttered.  
